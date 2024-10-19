@@ -1,0 +1,13 @@
+speed=0.01,latitude=17.6013483,longitude=78.1270677,altitude=525.13,heading_angl=77.30373171458413,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-07 20:08:46.215049,cnt=1
+speed=0.008,latitude=17.6013485,longitude=78.1270682,altitude=524.933,heading_angl=68.19859058881764,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-07 20:08:54.411917,cnt=2
+speed=0.008,latitude=17.6013485,longitude=78.1270682,altitude=524.933,heading_angl=90.0,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-07 20:09:02.606670,cnt=3
+speed=0.004,latitude=17.6013486,longitude=78.1270687,altitude=524.751,heading_angl=78.69006737198103,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-07 20:09:10.798978,cnt=4
+speed=0.008,latitude=17.6013489,longitude=78.1270702,altitude=535.252,heading_angl=77.30373168891958,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-07 23:05:40.961668,cnt=1
+speed=0.008,latitude=17.6013489,longitude=78.1270702,altitude=535.252,heading_angl=90.0,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-07 23:05:49.266212,cnt=2
+speed=0.008,latitude=17.6013424,longitude=78.1270572,altitude=530.093,heading_angl=77.30373418141859,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-09 16:29:19.694146,cnt=1
+speed=0.008,latitude=17.6013424,longitude=78.1270572,altitude=530.093,heading_angl=90.0,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-09 16:29:27.919135,cnt=2
+speed=0.002,latitude=17.6013545,longitude=78.1270672,altitude=532.894,heading_angl=77.30372730872541,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-10 10:22:29.808216,cnt=1
+speed=0.01,latitude=17.6013543,longitude=78.127067,altitude=532.935,heading_angl=225.00000047806427,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-10 10:22:40.053466,cnt=2
+speed=0.01,latitude=17.6013543,longitude=78.127067,altitude=532.935,heading_angl=90.0,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-10 10:22:50.303516,cnt=3
+speed=0.015,latitude=17.6013543,longitude=78.1270667,altitude=532.956,heading_angl=270.0000000410993,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-10 10:23:00.535442,cnt=4
+speed=0.01,latitude=17.6013599,longitude=78.1270605,altitude=530.467,heading_angl=77.30372248633026,temperature=N/A,wind_speed=N/A,condition=N/A,transmitted_timestamp=2020-02-10 10:51:09.885853,cnt=1
